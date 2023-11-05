@@ -8,6 +8,7 @@ Introduction to AI course from Alexandria University where we implement various 
     - [Description](#Description)
     - [Project Components](#Project-Components)
     - [Files Included](#Files-included)
+    - [Algorithms Comparisons](#Algorithms-Comparisons)
   - [Author](#author)
 
 ## 8-Puzzle-Solver
@@ -30,6 +31,9 @@ The 8-Puzzle Solver is the first project in our AI course. It involves implement
 
 ### Files Included
 - `8_puzzle_solver.ipynb`: Main program file to interact with the user and solve the 8-puzzle.
+
+### Algorithms Comparisons
+
 
 ## Author
 - [Omar Atef](https://github.com/Omar-Atef-Bakr)
