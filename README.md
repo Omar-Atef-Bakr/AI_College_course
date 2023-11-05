@@ -4,7 +4,7 @@ Introduction to AI course from Alexandria University where we implement various 
 
 ## Table of Contents
 - [AI_College_course](#AI_College_course)
-  - [8-Puzzle-Solver](#8-Puzzle-Solver)
+  - [Project 1: 8-Puzzle-Solver](#Project-1:-8-Puzzle-Solver)
     - [Description](#Description)
     - [Project Components](#Project-Components)
     - [Files Included](#Files-included)
