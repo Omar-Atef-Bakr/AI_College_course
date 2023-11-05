@@ -4,13 +4,13 @@ Introduction to AI course from Alexandria University where we implement various 
 
 ## Table of Contents
 - [AI_College_course](#AI_College_course)
-  - [Project 1: 8-Puzzle-Solver](#Project-1:-8-Puzzle-Solver)
+  - [8-Puzzle-Solver](#8-Puzzle-Solver)
     - [Description](#Description)
     - [Project Components](#Project-Components)
     - [Files Included](#Files-included)
   - [Author](#author)
 
-## Project 1: 8-Puzzle-Solver
+## 8-Puzzle-Solver
 
 ### Description
 The 8-Puzzle Solver is the first project in our AI course. It involves implementing algorithms to solve the classic 8-puzzle problem. The 8-puzzle is a sliding puzzle that consists of a 3x3 grid with 8 numbered tiles and a blank space. The goal is to rearrange the tiles from their initial state to a goal state using the minimum number of moves using different algorithms like BFS, DFS and A*. 
