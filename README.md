@@ -35,13 +35,13 @@ The 8-Puzzle Solver is the first project in our AI course. It involves implement
 ### Algorithms Comparisons
 The following table compares different algorithms used in solving the 8-puzzle problem:
 The problem:
-|----------|----------|----------|
+|---|---|---|
 | 1 | 2 | 5 |
 | 3 | 4 | 8 |
 | 6 | 7 | 0 |
 
 The target:
-|----------|----------|----------|
+|---|---|---|
 | 0 | 1 | 2 |
 | 3 | 4 | 5 |
 | 6 | 7 | 8 |
