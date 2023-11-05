@@ -36,26 +36,20 @@ The 8-Puzzle Solver is the first project in our AI course. It involves implement
 The following table compares different algorithms used in solving the 8-puzzle problem:
 The problem:
 | 1 | 2 | 5 |
-|----------|----------|----------|
 | 3 | 4 | 8 |
 | 6 | 7 | 0 |
-|----------|----------|----------|
 
 The target:
 | 0 | 1 | 2 |
-|----------|----------|----------|
 | 3 | 4 | 5 |
 | 6 | 7 | 8 |
-|----------|----------|----------|
 
 | visited nodes | path length | time taken |
 |----------|----------|----------|
 | 17 | 5 | 0.0005037784576416016 |
-| 33 | 33 | 0.0009970664978027344 |
-|----------|----------|----------|
+| 33 | 33 | 0.0009970664978027344|
 | 16 | 5 | 0.0010089874267578125 |
 | 37 | 33 | 0.0019948482513427734 |
-|----------|----------|----------|
 
 ## Author
 - [Omar Atef](https://github.com/Omar-Atef-Bakr)
